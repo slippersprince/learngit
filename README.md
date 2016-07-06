@@ -1,5 +1,7 @@
 # learngit
 
 First 
-  Logic Chaos
-  THREE  
+  Logic Chaos  
+=======
+  THREE People are fools.  
+>>>>>>> feature1
